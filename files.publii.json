@@ -1,0 +1,227 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "7a40a7fb4f4c43d0760d444ad5eaf805"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/mrw",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/mrw/index.html",
+        "type": "file",
+        "md5": "1b3eb23eb467649a2c0b764344496c53"
+    },
+    {
+        "path": "discover-the-best-website-to-learn-quran-online-free-and-start-your-spiritual-journey-today",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/discover-the-best-website-to-learn-quran-online-free-and-start-your-spiritual-journey-today/index.html",
+        "type": "file",
+        "md5": "00b9163a0fcbe5478c435085c738aa79"
+    },
+    {
+        "path": "embark-on-a-spiritual-journey-find-the-best-website-to-learn-quran-online-free-and-transform-your-connection-with-allah",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/embark-on-a-spiritual-journey-find-the-best-website-to-learn-quran-online-free-and-transform-your-connection-with-allah/index.html",
+        "type": "file",
+        "md5": "f21711778fef8c98cd0595ae1ca8aeef"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "0eac332712fd19b37e3b50d71aba12de"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "17792e3843da34ae52b9821e053e5992"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "81e15fc2d39a227b2e20593680e56bc4"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/mwqaa-mSHf11.jpg",
+        "type": "file",
+        "md5": "d4614d55d623f110cf997b68cb3d310b"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/mwqaa-mSHf11-2xl.jpg",
+        "type": "file",
+        "md5": "e430515f8ee714cc8058b9d6260b8190"
+    },
+    {
+        "path": "/media/website/responsive/mwqaa-mSHf11-lg.jpg",
+        "type": "file",
+        "md5": "e430515f8ee714cc8058b9d6260b8190"
+    },
+    {
+        "path": "/media/website/responsive/mwqaa-mSHf11-md.jpg",
+        "type": "file",
+        "md5": "933baa59580122224607c705afc86409"
+    },
+    {
+        "path": "/media/website/responsive/mwqaa-mSHf11-sm.jpg",
+        "type": "file",
+        "md5": "521b5ceb4414858202aeaff610b60bcd"
+    },
+    {
+        "path": "/media/website/responsive/mwqaa-mSHf11-xl.jpg",
+        "type": "file",
+        "md5": "e430515f8ee714cc8058b9d6260b8190"
+    },
+    {
+        "path": "/media/website/responsive/mwqaa-mSHf11-xs.jpg",
+        "type": "file",
+        "md5": "3665f1dad06551c57aa4a0cc215bc070"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "b0851840abbde30cc4e44ad4897eddef"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "f83a69d886fe0fe713497021abe1be18"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "f80ede8300054e7a06b5a9ee80d4b535"
+    },
+    {
+        "path": "the-best-way-to-learn-quran-online-a-journey-of-light-faith-and-understanding",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-best-way-to-learn-quran-online-a-journey-of-light-faith-and-understanding/index.html",
+        "type": "file",
+        "md5": "72ea95c6a120a39bd63fb7d0d22878e4"
+    },
+    {
+        "path": "the-best-way-to-learn-quran-online-a-spiritual-journey-to-understanding-and-light",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-best-way-to-learn-quran-online-a-spiritual-journey-to-understanding-and-light/index.html",
+        "type": "file",
+        "md5": "1c1f07c3400ae386ddb67965edbb9f04"
+    },
+    {
+        "path": "the-best-way-to-learn-quran-online-discover-the-path-to-spiritual-growth-and-peace",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-best-way-to-learn-quran-online-discover-the-path-to-spiritual-growth-and-peace/index.html",
+        "type": "file",
+        "md5": "de5586924a7785c080c55ba47e7e9f65"
+    }
+]

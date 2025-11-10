@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://norahelmy7-web.github.io/sitemap.xml
